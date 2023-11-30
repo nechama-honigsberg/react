@@ -6,7 +6,7 @@ export default function CounterViewer() {
 
   return (
     <div style={{ border: "1px solid black" }}>
-      <h1>Counter is: {store.counter}</h1>
+      <h1>The Counter is: {store.counter}</h1>
 
       {store.users.map(user => <h1 key={user.id}>{user.name}</h1>)}
     </div>
