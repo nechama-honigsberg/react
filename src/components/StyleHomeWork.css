@@ -1,0 +1,19 @@
+.container{
+    /* margin-left: -30%; */
+    margin-top: 1%;
+    height: min-content;
+    width: 65%;
+    text-align: center;
+    font-size: larger;
+    font-weight: 200;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.class3{
+    color:cornflowerblue;
+}
+.class2{
+    color: blueviolet;
+}
+.class1{
+    color:crimson
+}
